@@ -1,1 +1,1 @@
-# rsg-mmdetection   0612
+We are going open source soon, paper link, web link: [RSG](https://linlin-dev.github.io/project/RSG.html)
