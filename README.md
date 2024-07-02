@@ -1,1 +1,1 @@
-We are going open source soon, paper link, web link: [RSG](https://linlin-dev.github.io/project/RSG.html)
+We are going open source soon, paper link, web link: [STAR](https://linlin-dev.github.io/project/STAR.html)
